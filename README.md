@@ -1,6 +1,6 @@
 # JKFLIPFLOP-USING-IF-ELSE
-## Name: Naveenkumar M
-## Reg no: 212224230182
+## Name:Nijanth k
+## Reg no: 212224230186
 
 **AIM:** 
 
